@@ -6,8 +6,6 @@ Interface web para o gerenciamento de tarefas pessoais, desenvolvida com React e
 
 https://todoapi-frontend-production.up.railway.app
 
-> Em breve — deploy em produção
-
 ## 🚀 Tecnologias
 
 - React 19
