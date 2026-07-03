@@ -11,7 +11,8 @@ https://todoapi-frontend-production.up.railway.app
 - React 19
 - Vite 8
 - Axios
-- CSS puro
+- CSS
+- HTML
 
 ## 📁 Estrutura do Projeto
 
